@@ -1,0 +1,9 @@
+Método: herramienta integrada image_gen. Originales conservados en Descargas.
+
+Retrato principal: restaurar la fotografía del hombre con suéter naranja, conservando identidad, sonrisa, edad, ropa y pose; eliminar marco superpuesto y artefactos de pantalla; fondo neutro marfil, sin texto.
+
+Sombrero: restaurar fotografía de pantalla, reducir moiré, conservar identidad, edad, expresión, sombrero, ropa y teléfono; retrato ovalado sobre marfil.
+
+Decoración: esquina floral con lirios blancos, rosas azul suave, follaje salvia y detalles champán sobre transparencia.
+
+Las otras tres fotos mantienen su contenido original y se presentan con marcos en la página.

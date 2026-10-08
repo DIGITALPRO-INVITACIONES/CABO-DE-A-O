@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Memoria Carlos Caballero//ES
+BEGIN:VEVENT
+UID:carlos-caballero-novenaria-20261015@digitalpro
+DTSTAMP:20261008T030000Z
+DTSTART:20261015T230000Z
+SUMMARY:Inicio de novenaria - Dr. Carlos Caballero Santiesteban
+LOCATION:Iglesia Matriz de Vallegrande - Santa Cruz - Bolivia
+DESCRIPTION:Inicio de la novenaria a las 19:00 hora de Bolivia.
+END:VEVENT
+END:VCALENDAR

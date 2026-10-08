@@ -1,0 +1,17 @@
+DR. CARLOS CABALLERO SANTIESTEBAN
+Invitación y recuerdo de cabo de año.
+
+Datos transcritos del video F.mp4:
+Nacimiento: 3 de octubre de 1956.
+Fallecimiento: 24 de octubre de 2025.
+Inicio de novenaria: 15 de octubre de 2026, 19:00, hora de Bolivia.
+Iglesia Matriz de Vallegrande, Santa Cruz.
+Invitan: esposa, hermanos, sobrinos y familia.
+
+Google Maps abre una búsqueda por el nombre de la iglesia; no se recibió un pin específico.
+El calendario registra únicamente el inicio de la novenaria; no se inventaron horarios de otras celebraciones.
+La vela se guarda solamente en el dispositivo del visitante. No existe un registro público.
+La música empieza al pulsar Abrir este recuerdo.
+Compartir y copiar enlace funcionan al publicar la invitación.
+
+GITHUB: descomprimir y subir el contenido completo, con index.html en la raíz y la carpeta assets. Activar Pages.
