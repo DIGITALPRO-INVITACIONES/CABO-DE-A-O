@@ -4,3 +4,6 @@
 @media(max-height:720px){.cover{place-items:start center}.cover-content{padding:5px 0 20px}.cover-portrait{width:120px;height:135px}.cover h1{font-size:29px}.cover-script{font-size:28px}.cover-dates{margin:10px 0 15px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.light{display:none}.reveal-ready{opacity:1;transform:none}}
 @media(min-width:761px) and (max-width:1000px){.hero-grid{gap:45px}.portrait-flowers{width:220px;left:-38px;bottom:27px}.portrait-caption{font-size:11px}}
+
+/* Nuevas fotografías: conservar la imagen completa dentro del marco. */
+.memory-card:nth-child(1) .photo-button img,.memory-card:nth-child(2) .photo-button img{object-fit:contain;object-position:center;background:#f5f0e7}
